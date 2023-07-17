@@ -1,4 +1,7 @@
-# ETH-Web-Scraping
+
+
+ # <img src="https://github.com/Maorytzio/ETH-Web-Scraping/assets/38633235/24edc2d3-a551-4627-8936-3647e92265e1" alt="5819-eth" width="80"> ETH-Web-Scraping   
+
 
  1. The following repository holds JSON files, each file holds Address
     metadata.
